@@ -1,4 +1,4 @@
-# 369 clock
+# 369t_clock
 
 The 369 clock allows for one to understand how the infinite 369 string is attached to time. 
 
