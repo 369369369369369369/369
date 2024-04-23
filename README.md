@@ -1,3 +1,5 @@
-# x369
+# 369 clock
 
-The x369 programs finds 3 different infinite 369 strings via multiplication of 3s and sumof.
+The 369 clock allows for one to understand how the infinite 369 string is attached to time. 
+
+There are many more ways to pull the 9 loops together. This the the fundamental basic equation.
