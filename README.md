@@ -13,3 +13,5 @@ Both files to be run via terminal(Unix or Linux) and or command prompt(microsoft
 Compile via terminal within the file location: gcc 369.c -o 369
 
 microsoft instructions: https://learn.microsoft.com/en-us/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170
+
+The x369 programs finds 3 different infinite 369 strings via multiplication of 3s and sumof.
